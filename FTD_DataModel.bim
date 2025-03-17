@@ -3946,6 +3946,7 @@
             "dataType": "string",
             "isNameInferred": true,
             "isDataTypeInferred": true,
+            "description": "State",
             "sourceColumn": "[State]",
             "displayFolder": "Dimension State"
           },
